@@ -1,3 +1,3 @@
-#New Git Repository
+# New Git Repository
 
 This is my first commit
