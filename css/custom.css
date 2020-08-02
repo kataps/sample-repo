@@ -1,0 +1,21 @@
+.order-1{
+   order:1;
+}
+.order-2{
+    order:2;
+}
+.order-3{
+    order: 3;
+}
+#profile-pic{
+    max-width: 100px;
+    position: relative;
+    vertical-align: middle;
+ 
+}
+.circle_img{
+    border-radius: 50%;
+}
+.comment_name{
+    max-width: 80%;
+}
